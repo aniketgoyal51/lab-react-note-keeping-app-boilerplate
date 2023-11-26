@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(78, 211, 255);
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
+
+.output-text,.input-text{
+    width:550px;
+    height: 400px;
+    padding: 20px;
+}
+
+.output-text{
+    background-color: black;
+    box-shadow: 10px 10px 50px black;
+}
+
+.input-text{
+    border: 2px solid black;
+    background-color:rgb(78, 211, 255);
+
+}
